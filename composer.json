@@ -1,0 +1,18 @@
+{
+    "name": "zahir/zaramon-form-builder",
+    "description": "Wordpress plugin for dynamic form building",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Zahirul Islam",
+            "email": "smzislam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {"Inc\\": "./inc"}
+	}
+	
+}
